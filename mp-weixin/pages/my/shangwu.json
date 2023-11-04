@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的链接",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "refresh": "/components/refresh/refresh"
+  }
+}

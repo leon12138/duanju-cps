@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "数据",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sundeheng-custom": "/components/sundeheng-custom/sundeheng-custom",
+    "refresh": "/components/refresh/refresh"
+  }
+}

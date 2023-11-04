@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sundeheng-custom": "/components/sundeheng-custom/sundeheng-custom",
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar",
+    "promote-toast": "/components/promote_toast/promote_toast"
+  }
+}

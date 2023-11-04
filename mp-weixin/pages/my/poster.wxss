@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page.data-v-c182ba32 {
+  background-color: #7ACBDC;
+}
+.canvas-in.data-v-c182ba32 {
+  width: 100%;
+  position: relative;
+  height: 100vh;
+  overflow-y: hidden;
+}
+.canvas-text.data-v-c182ba32 {
+  position: absolute;
+  bottom: 10%;
+  left: 23%;
+  z-index: 999;
+  width: 400rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 40rpx;
+  color: #fff;
+  background-color: #D81E06;
+}
+.grace-canvas.data-v-c182ba32 {
+  z-index: 99;
+  top: 0;
+  font-size: 0;
+  display: flex;
+  position: fixed;
+  left: 9000px;
+}
+.grace-canvas-img.data-v-c182ba32 {
+  width: 516rpx;
+  height: 920rpx;
+  position: absolute;
+  z-index: 99;
+  top: 0;
+  font-size: 0;
+  display: flex;
+  left: 50%;
+  top: 40%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  /* 50%为自身尺寸的一半 */
+}
+.tips.data-v-c182ba32 {
+  width: 600rpx;
+  height: 100rpx;
+  font-size: 40rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background-color: red;
+  position: absolute;
+  z-index: 999;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+}
+

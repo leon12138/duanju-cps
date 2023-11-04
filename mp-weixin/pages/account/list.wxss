@@ -1,0 +1,70 @@
+.page.data-v-46a17f8e {
+  min-height: 100vh;
+  background-color: #f7f8ff;
+  color: #333;
+}
+.add-account.data-v-46a17f8e {
+  display: block;
+  text-align: center;
+  height: 90rpx;
+  line-height: 90rpx;
+  width: 450rpx;
+  background-color: #015ae8;
+  color: white;
+  position: fixed;
+  bottom: 30rpx;
+  left: 150rpx;
+  border-radius: 50rpx;
+  margin: auto;
+}
+.account.data-v-46a17f8e {
+  display: flex;
+  width: 690rpx;
+  margin: 20rpx auto;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: white;
+  border-radius: 12rpx;
+  /* border: 1px solid #ccc; */
+}
+.account .name.data-v-46a17f8e {
+  display: flex;
+  width: 100%;
+  padding: 10rpx 25rpx;
+  font-size: 32rpx;
+  align-items: center;
+}
+.account .name .app-icon.data-v-46a17f8e {
+  display: block;
+  width: 30rpx;
+  margin-right: 10rpx;
+}
+.account .account_id.data-v-46a17f8e {
+  display: block;
+  width: 100%;
+  padding: 25rpx;
+}
+.account .right-icon.data-v-46a17f8e {
+  display: block;
+  width: 40rpx;
+  position: absolute;
+  right: 20rpx;
+  box-sizing: content-box;
+  padding-right: 20rpx;
+}
+.tabs.data-v-46a17f8e {
+  display: flex;
+  font-size: 30rpx;
+  color: #fff;
+  justify-content: space-around;
+  /* border-bottom: 1px solid skyblue; */
+}
+.tabs .tab.data-v-46a17f8e {
+  width: 6em;
+  text-align: center;
+  padding: 20rpx 0;
+  /* border: 1px solid #eee; */
+  background-color: #ccc;
+  border-radius: 14rpx;
+}
+

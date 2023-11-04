@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.tebie.data-v-11e2b0d4 {
+  color: #c2c2c2;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  letter-spacing: 2rpx;
+  line-height: 38rpx;
+}
+.tebie navigator.data-v-11e2b0d4 {
+  display: inline;
+  color: #0081FF;
+}
+.mask_to.data-v-11e2b0d4 {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.promote_toast.data-v-11e2b0d4 {
+  position: fixed;
+  border-radius: 14rpx;
+  width: 600rpx;
+  background-color: #fff;
+  box-sizing: border-box;
+  color: #242A38;
+  padding: 50rpx 30rpx;
+}
+.promote_toast .close.data-v-11e2b0d4 {
+  position: absolute;
+  bottom: -150rpx;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  /* 50%为自身尺寸的一半 */
+  padding: 14rpx 20rpx;
+  text-align: center;
+}
+.promote_toast .toast_copy.data-v-11e2b0d4 {
+  width: 350rpx;
+  margin: 36rpx auto 0;
+  text-align: center;
+  color: #edf5f2;
+  font-size: 28rpx;
+  padding: 14rpx 0;
+  border-radius: 10rpx;
+  background-color: #00b894;
+}
+.promote_toast .toast_title.data-v-11e2b0d4 {
+  align-items: center;
+}
+.promote_toast .toast_title input.data-v-11e2b0d4 {
+  color: #9a9a9a;
+  padding: 10rpx 0 10rpx 20rpx;
+  background-color: #E1D7F0;
+  height: 60rpx;
+  flex: 1;
+}
+

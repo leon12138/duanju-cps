@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content-page.data-v-5997cf46 {
+  margin-top: 30rpx;
+}
+.data-view.data-v-5997cf46 {
+  color: #FBE69C;
+  width: 750rpx;
+  padding: 70rpx 64rpx 50rpx;
+  background-color: #242A37;
+  font-size: 28rpx;
+}
+.data-view .padding-bottom21.data-v-5997cf46 {
+  margin-bottom: 42rpx;
+  font-size: 40rpx;
+}
+.data-view > view.data-v-5997cf46 {
+  text-align: center;
+  height: auto;
+}
+.data_content.data-v-5997cf46 {
+  background-color: #242A37;
+  margin-top: 24rpx;
+}
+.data_content .data_title.data-v-5997cf46 {
+  text-align: center;
+  font-size: 40rpx;
+  padding: 30rpx 88rpx;
+  color: #FBE69C;
+  font-weight: bold;
+  letter-spacing: 6rpx;
+  border-bottom: rgba(187, 187, 187, 0.1) 1rpx solid;
+}
+.data_content .data_list.data-v-5997cf46 {
+  padding: 0 42rpx;
+  width: 750rpx;
+  min-height: 1150rpx;
+  padding-top: 16rpx;
+}
+.data_content .data_list .dtlist_item.data-v-5997cf46 {
+  width: 100%;
+  padding: 16rpx 0;
+}
+.data_content .data_list .dtlist_item .item-icon.data-v-5997cf46 {
+  position: relative;
+  width: 60rpx;
+  height: 70rpx;
+  margin-right: 36rpx;
+  top: 6rpx;
+  vertical-align: middle;
+}
+.data_content .data_list .dtlist_item .item-icon.data-v-5997cf46::after {
+  content: "";
+  background-color: #242A37;
+  width: 100rpx;
+  height: 20rpx;
+  position: absolute;
+  bottom: -10rpx;
+}
+.data_content .data_list .dtlist_item .item-index.data-v-5997cf46 {
+  float: left;
+  width: 60rpx;
+  height: 70rpx;
+  text-align: center;
+  line-height: 70rpx;
+  margin-right: 36rpx;
+}
+.data_content .data_list .dtlist_item .item-avatr.data-v-5997cf46 {
+  width: 70rpx;
+  height: 70rpx;
+  margin-right: 52rpx;
+  border-radius: 35rpx;
+  vertical-align: middle;
+}
+.data_content .data_list .dtlist_item .username.data-v-5997cf46,
+.data_content .data_list .dtlist_item .userprice.data-v-5997cf46 {
+  font-size: 32rpx;
+  vertical-align: middle;
+}
+.data_content .data_list .dtlist_item .username.data-v-5997cf46 {
+  display: inline-block;
+  width: 250rpx;
+}
+.data_content .data_list .dtlist_item .userprice.data-v-5997cf46 {
+  letter-spacing: -2rpx;
+  color: #FBE69C;
+  font-weight: bold;
+  float: right;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page,
+page {
+  background: #232429;
+}
+

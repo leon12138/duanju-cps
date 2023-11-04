@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "影视",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sundeheng-custom": "/components/sundeheng-custom/sundeheng-custom"
+  }
+}

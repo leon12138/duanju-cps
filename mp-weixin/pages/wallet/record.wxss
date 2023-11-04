@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.record.data-v-2a08effe {
+  width: 100vw;
+  height: 100vh;
+  background-color: #242A37;
+  padding-top: 12rpx;
+}
+.record .record_title.data-v-2a08effe {
+  font-size: 36rpx;
+  padding: 26rpx;
+  border-bottom: 1px solid rgba(187, 187, 187, 0.1);
+}
+.record .record_title .title_input.data-v-2a08effe {
+  width: 350rpx;
+  position: relative;
+  top: 6rpx;
+}
+.record .record_list.data-v-2a08effe {
+  padding: 26rpx;
+  text-align: center;
+}
+.record .record_list .list_item.data-v-2a08effe {
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 28rpx;
+  padding-right: 82rpx;
+  margin-bottom: 30rpx;
+}
+.record .record_list .list_item .item_data.data-v-2a08effe {
+  font-size: 24rpx;
+  letter-spacing: -2rpx;
+}
+

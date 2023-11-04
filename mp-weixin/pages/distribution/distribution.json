@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "团队管理",
+  "navigationBarBackgroundColor": "#232429",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "refresh": "/components/refresh/refresh"
+  }
+}

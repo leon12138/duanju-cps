@@ -1,0 +1,71 @@
+
+page,
+page {
+	background-color: #232429;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.app.data-v-ce7fa2f4 {
+  width: 100vw;
+  min-height: 105vh;
+  background-color: #232429;
+}
+.title.data-v-ce7fa2f4 {
+  font-size: 36rpx;
+  padding: 10rpx 26rpx;
+  border-bottom: 1px solid rgba(187, 187, 187, 0.1);
+  text-align: center;
+}
+.title view.data-v-ce7fa2f4 {
+  width: 50%;
+}
+.td_bt.data-v-ce7fa2f4 {
+  padding: 20rpx 50rpx 20rpx;
+  text-align: center;
+}
+.td_bt view.data-v-ce7fa2f4 {
+  align-self: center;
+  width: 33%;
+}
+.td_list.data-v-ce7fa2f4 {
+  text-align: center;
+  padding: 0 50rpx 20rpx;
+}
+.td_list .list_item.data-v-ce7fa2f4 {
+  margin-bottom: 20rpx;
+}
+.td_list .list_item view.data-v-ce7fa2f4 {
+  align-self: center;
+  width: 33%;
+}
+.td_list .list_item .item_img.data-v-ce7fa2f4 {
+  position: relative;
+}
+.td_list .list_item .item_img .avatar.data-v-ce7fa2f4 {
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 50%;
+}
+.td_list .list_item .item_img .vip.data-v-ce7fa2f4 {
+  position: absolute;
+  right: 20rpx;
+  bottom: 0;
+}
+.td_list .list_item .item_img .vip image.data-v-ce7fa2f4 {
+  width: 30rpx;
+  height: 30rpx;
+}
+

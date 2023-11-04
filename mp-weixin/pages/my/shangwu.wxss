@@ -1,0 +1,49 @@
+
+page,page{
+	background-color:#232429;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.app.data-v-19713e4e {
+  padding-top: 10rpx;
+  min-height: 105vh;
+}
+.bd_content.data-v-19713e4e {
+  width: 100%;
+}
+.bd_content .link_item.data-v-19713e4e {
+  margin-bottom: 40rpx;
+  background-color: #242A37;
+  padding: 30rpx;
+  font-size: 32rpx;
+}
+.bd_content .link_item > view.data-v-19713e4e {
+  margin-bottom: 20rpx;
+}
+.bd_content .link_item .item_title.data-v-19713e4e {
+  color: #FBE69C;
+}
+.bd_content .link_item .fz-link.data-v-19713e4e, .bd_content .link_item .bj-link.data-v-19713e4e {
+  padding: 4rpx 10rpx;
+  font-size: 28rpx;
+}
+.bd_content .link_item .bj-link.data-v-19713e4e {
+  background-color: #814B59;
+}
+.bd_content .link_item .fz-link.data-v-19713e4e {
+  background-color: #45488C;
+}
+

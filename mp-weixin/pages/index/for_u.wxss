@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page.data-v-59afc219, page.data-v-59afc219 {
+  background-color: #222222;
+}
+.for_u.data-v-59afc219 {
+  display: block;
+  width: 750rpx;
+  margin-bottom: -40rpx;
+}
+.list.data-v-59afc219 {
+  display: block;
+  width: 750rpx;
+  color: #ECE4D5;
+}
+.item.data-v-59afc219 {
+  margin: 20rpx;
+  background-color: #1E284A;
+  padding: 25rpx;
+  box-sizing: border-box;
+}
+.item .title.data-v-59afc219 {
+  display: flex;
+  align-items: center;
+}
+.item .title .title-index.data-v-59afc219 {
+  display: inline-block;
+  width: 30rpx;
+  height: 30rpx;
+  line-height: 50rpx;
+  background-color: #ECE4D5;
+  font-size: 30rpx;
+  text-align: center;
+  font-family: Arial;
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+.item .title .title-text.data-v-59afc219 {
+  color: #E9E1D1;
+  font-size: 34rpx;
+  text-align: left;
+  font-family: 方正新书宋-标准;
+  margin: 10rpx;
+}
+.item .text.data-v-59afc219 {
+  display: block;
+  opacity: 0.9;
+  line-height: 1.5em;
+  color: #E9E1D1;
+  font-size: 28rpx;
+  text-align: left;
+  font-family: 方正新书宋-标准;
+}
+

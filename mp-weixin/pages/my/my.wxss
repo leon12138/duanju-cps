@@ -1,0 +1,229 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.my.data-v-0be17cc6 {
+  min-height: 105vh;
+}
+.my_info .bf.data-v-0be17cc6 {
+  display: inline-block;
+  width: 80rpx;
+  height: 40rpx;
+  background-color: #384055;
+  text-align: center;
+  line-height: 40rpx;
+}
+.my_info .my_title.data-v-0be17cc6 {
+  width: 750rpx;
+  height: 200rpx;
+  margin-top: 34rpx;
+  padding: 30rpx 34rpx;
+  display: flex;
+  background-color: #242A37;
+}
+.my_info .my_title .avactr.data-v-0be17cc6 {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+  margin-right: 30rpx;
+  vertical-align: center;
+}
+.my_info .my_title .info_context.data-v-0be17cc6 {
+  align-self: center;
+  display: inline-block;
+  float: left;
+  width: 300rpx;
+  height: 120rpx;
+  margin-right: 20rpx;
+}
+.my_info .my_title .info_context .ic_te.data-v-0be17cc6 {
+  font-size: 40rpx;
+  margin-bottom: 16rpx;
+}
+.my_info .my_title .info_context .ic_bm.data-v-0be17cc6 {
+  font-size: 24rpx;
+}
+.my_info .my_title .hytp.data-v-0be17cc6 {
+  align-self: center;
+  vertical-align: center;
+  width: 190rpx;
+  height: 100rpx;
+  text-align: center;
+}
+.my_info .my_title .hytp image.data-v-0be17cc6 {
+  width: 90rpx;
+  height: 100rpx;
+}
+.my_info .my_title .member-view.data-v-0be17cc6 {
+  align-self: center;
+  vertical-align: center;
+  background-color: #007aff;
+  width: 190rpx;
+  height: 100rpx;
+  overflow: hidden;
+  border-radius: 20rpx;
+  background: url(http://lanchong.oss-cn-beijing.aliyuncs.com/douzuanshe/member_backgroud.png) no-repeat;
+  background-size: cover;
+}
+.my_info .my_title .member-view text.data-v-0be17cc6 {
+  color: #664630;
+  font-size: 32rpx;
+}
+.my_info .binding.data-v-0be17cc6 {
+  margin-top: 40rpx;
+  padding: 20rpx 20rpx;
+  background-color: #242A37;
+  font-size: 24rpx;
+  display: flex;
+}
+.my_info .binding .binding_item.data-v-0be17cc6 {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 14rpx;
+}
+.my_info .binding .binding_item .bind_text.data-v-0be17cc6 {
+  display: inline-block;
+  width: 250rpx;
+  padding: 4rpx;
+  letter-spacing: -2rpx;
+}
+.my_info .wallet.data-v-0be17cc6 {
+  margin-top: 40rpx;
+  padding: 40rpx 30rpx;
+  background-color: #242A37;
+  text-align: center;
+}
+.my_info .wallet .wallet_top .wallet_top_40.data-v-0be17cc6 {
+  max-width: 200rpx;
+  font-size: 40rpx;
+  margin-bottom: 16rpx;
+}
+.my_info .wallet .wallet_top .wallet_top_28.data-v-0be17cc6 {
+  font-size: 28rpx;
+}
+.my_info .wallet .wallet_bottom.data-v-0be17cc6 {
+  margin-top: 60rpx;
+}
+.my_info .wallet .wallet_bottom view.data-v-0be17cc6 {
+  width: 330rpx;
+  line-height: 70rpx;
+  border-radius: 8rpx;
+  border: 1px solid #d9cba1;
+  background-color: #555460;
+}
+.my_info .wallet .wallet_bottom .wallet_btm_active.data-v-0be17cc6 {
+  color: #ab7f39;
+  background-color: #ffeeb5;
+}
+.my_info .info_func.data-v-0be17cc6 {
+  padding: 34rpx 30rpx;
+  background-color: #242A37;
+  margin-top: 40rpx;
+}
+.my_info .info_func .func_imag.data-v-0be17cc6 {
+  margin-bottom: 10rpx;
+  text-align: center;
+}
+.my_info .info_func .func_imag image.data-v-0be17cc6 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.my_info .info_func .mbm.data-v-0be17cc6 {
+  margin-bottom: 70rpx;
+}
+.my_info .info_func .func_text.data-v-0be17cc6 {
+  color: #FBE69C;
+  font-size: 24rpx;
+}
+.my_info .bottom_wa.data-v-0be17cc6 {
+  text-align: center;
+  margin-top: 80rpx;
+}
+.my_info .bottom_wa .bottom_logo image.data-v-0be17cc6 {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+.mask.data-v-0be17cc6 {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask .kf.data-v-0be17cc6 {
+  width: 600rpx;
+  height: 680rpx;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+}
+.mask .kf .ewm_bg.data-v-0be17cc6 {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.mask .kf .ewm_bg image.data-v-0be17cc6 {
+  width: 500rpx;
+  height: 500rpx;
+}
+.mask .kf .content.data-v-0be17cc6 {
+  position: relative;
+  top: 23%;
+}
+.mask .kf .content .qrcode.data-v-0be17cc6 {
+  width: 330rpx;
+  height: 330rpx;
+}
+.mask .kf .content .tips.data-v-0be17cc6 {
+  display: block;
+  font-size: 28rpx;
+  text-align: center;
+  margin-top: 96rpx;
+}
+.mask .kf .content .close.data-v-0be17cc6 {
+  position: absolute;
+  bottom: -230rpx;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  /* 50%为自身尺寸的一半 */
+  padding: 14rpx 20rpx;
+  text-align: center;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page,
+page {
+  background: #1e232e;
+}
+

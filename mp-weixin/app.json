@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/wallet/wallet",
+    "pages/account/list",
+    "pages/account/add",
+    "pages/index/simple_desc",
+    "pages/index/tutorial",
+    "pages/index/for_u",
+    "pages/index/dy_knowledge",
+    "pages/my/poster",
+    "pages/my/shangwu",
+    "pages/my/about_us",
+    "pages/vip/vip",
+    "pages/vip/old_vip",
+    "pages/income/income",
+    "pages/wallet/record",
+    "pages/distribution/distribution",
+    "pages/data/data",
+    "pages/my/my",
+    "pages/video/video"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "快变现",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "backgroundColor": "#222222",
+    "color": "#D3D2D2",
+    "selectedColor": "#DB4977",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "./static/nav/index_sel.png",
+        "iconPath": "./static/nav/index.png"
+      },
+      {
+        "text": "影视",
+        "pagePath": "pages/video/video",
+        "selectedIconPath": "./static/nav/video_sel.png",
+        "iconPath": "./static/nav/video.png"
+      },
+      {
+        "text": "数据",
+        "pagePath": "pages/data/data",
+        "selectedIconPath": "./static/nav/data_sel.png",
+        "iconPath": "./static/nav/data.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/my/my",
+        "selectedIconPath": "./static/nav/my_sel.png",
+        "iconPath": "./static/nav/my.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "sundeheng-custom": "/components/sundeheng-custom/sundeheng-custom"
+  }
+}

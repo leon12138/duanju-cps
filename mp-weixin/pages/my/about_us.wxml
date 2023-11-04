@@ -1,0 +1,1 @@
+<view class="page data-v-2c337c2a"><image class="about_us data-v-2c337c2a" src="../../static/my/about_us.png" mode="widthFix"></image><view class="title data-v-2c337c2a">{{''+app_data.app_name+''}}</view><text class="content data-v-2c337c2a">{{''+app_data.about_us+''}}</text></view>

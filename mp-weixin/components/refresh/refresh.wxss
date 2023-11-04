@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.refresh.data-v-46bc0fbc {
+  width: 130rpx;
+  height: 50rpx;
+  position: fixed;
+  right: 0;
+  border-top-left-radius: 30rpx;
+  border-bottom-left-radius: 30rpx;
+  background-color: #196AD4;
+}
+.refresh .refreimg image.data-v-46bc0fbc {
+  width: 40rpx;
+  height: 40rpx;
+  vertical-align: middle;
+  margin-left: 10rpx;
+}
+.refresh .title.data-v-46bc0fbc {
+  position: relative;
+  top: 4rpx;
+  left: 10rpx;
+}
+

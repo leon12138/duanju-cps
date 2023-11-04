@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sundeheng-custom": "/components/sundeheng-custom/sundeheng-custom",
+    "uni-grid": "/components/uni-grid/uni-grid",
+    "uni-grid-item": "/components/uni-grid-item/uni-grid-item",
+    "refresh": "/components/refresh/refresh",
+    "auth-popup": "/components/auth-popup/auth-popup",
+    "h-form-alert": "/components/h-form-alert/h-form-alert"
+  }
+}

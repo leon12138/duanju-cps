@@ -1,0 +1,61 @@
+.page.data-v-3be08a56 {
+  min-height: 100vh;
+  background-color: #f7f8ff;
+  color: #333;
+  float: left;
+  width: 100vw;
+}
+.add-account.data-v-3be08a56 {
+  display: block;
+  text-align: center;
+  height: 90rpx;
+  line-height: 90rpx;
+  width: 450rpx;
+  background-color: #015ae8;
+  color: white;
+  position: fixed;
+  bottom: 30rpx;
+  left: 150rpx;
+  border-radius: 50rpx;
+  margin: auto;
+}
+.tips.data-v-3be08a56 {
+  display: block;
+  margin: 25rpx;
+  font-size: 30rpx;
+}
+.form .title.data-v-3be08a56 {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+  margin: 25rpx;
+}
+.form .input-group.data-v-3be08a56 {
+  display: flex;
+  background-color: white;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 690rpx;
+  margin: 25rpx auto;
+  padding: 20rpx;
+  border-radius: 8rpx;
+}
+.form .input-group .input.data-v-3be08a56 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 80rpx;
+  border-bottom: 1px solid #eee;
+}
+.form .input-group .input .input-name.data-v-3be08a56 {
+  width: 150rpx;
+}
+.form .input-group .input input.data-v-3be08a56 {
+  flex: 1;
+  height: 100%;
+}
+.form .input-group .input.data-v-3be08a56:last-of-type {
+  border: none;
+}
+

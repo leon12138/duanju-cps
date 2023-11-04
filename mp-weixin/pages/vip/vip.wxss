@@ -1,0 +1,130 @@
+
+page{
+ 	background-color:#242A38;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.title.data-v-5972bd7c {
+  display: flex;
+  align-items: center;
+  width: 700rpx;
+  margin: 0 auto;
+  margin-bottom: 20rpx;
+}
+.title image.data-v-5972bd7c {
+  display: block;
+  position: relative;
+  top: 6rpx;
+  width: 56rpx;
+  height: 44rpx;
+  margin-right: 22rpx;
+}
+.title text.data-v-5972bd7c {
+  height: 20px;
+  color: #f2d083;
+  font-size: 40rpx;
+  text-align: left;
+}
+.advantage-list.data-v-5972bd7c {
+  display: block;
+  width: 700rpx;
+  margin: auto;
+  padding-bottom: 20rpx;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.advantage-list .item.data-v-5972bd7c {
+  display: inline-block;
+  width: 33%;
+}
+.advantage-list .item image.data-v-5972bd7c {
+  display: block;
+  width: 60rpx;
+  height: 60rpx;
+  margin: 36rpx auto 0;
+}
+.advantage-list .item text.data-v-5972bd7c {
+  display: block;
+  margin: 30rpx auto 14rpx;
+  color: #f7e2b2;
+  font-size: 28rpx;
+  text-align: center;
+}
+.recommend.data-v-5972bd7c {
+  position: relative;
+  margin: 46rpx auto 0;
+  width: 700rpx;
+  height: 120rpx;
+  padding: 16rpx 26rpx;
+  background-color: #384055;
+  align-items: center;
+}
+.recommend .logo.data-v-5972bd7c {
+  margin-left: 24rpx;
+  margin-right: 30rpx;
+}
+.recommend .logo image.data-v-5972bd7c {
+  width: 90rpx;
+  height: 90rpx;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+.recommend .content1.data-v-5972bd7c {
+  margin-right: 80rpx;
+}
+.recommend .content1 .tenttitle.data-v-5972bd7c {
+  color: #FCE2A9;
+}
+.recommend .content1 .tentdec.data-v-5972bd7c {
+  font-size: 24rpx;
+}
+.recommend .copy.data-v-5972bd7c {
+  width: 180rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  border-radius: 4rpx;
+  text-align: center;
+  color: #513609;
+  background-color: #fce2a9;
+}
+.recommend.data-v-5972bd7c::before {
+  content: "推荐人";
+  background-color: #fce2a9;
+  color: #513609;
+  font-size: 24rpx;
+  position: absolute;
+  left: 0;
+  border-radius: 4rpx;
+  text-align: center;
+  padding-top: 10rpx;
+  width: 30rpx;
+  height: 120rpx;
+}
+.ts1.data-v-5972bd7c {
+  margin: 40rpx auto 18rpx;
+  padding: 0 26rpx;
+  color: #F7E2B2;
+}
+.footer-tips.data-v-5972bd7c {
+  width: 700rpx;
+  margin: 50rpx auto;
+  color: #f7e2b2;
+  font-size: 28rpx;
+  text-align: left;
+}
+.footer-tips .title.data-v-5972bd7c {
+  font-size: 36rpx;
+}
+

@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.font20.data-v-4a11fda6 {
+  font-size: 40rpx;
+}
+.mar-bottom40.data-v-4a11fda6 {
+  margin-bottom: 40rpx;
+}
+.app.data-v-4a11fda6 {
+  color: white;
+  background-color: #232429;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 22rpx;
+}
+.app .header.data-v-4a11fda6 {
+  background-color: #242A37;
+  padding: 36rpx;
+  font-size: 28rpx;
+}
+.app .header > view.data-v-4a11fda6 {
+  width: 33%;
+  text-align: center;
+}
+.app .header .select.data-v-4a11fda6 {
+  position: relative;
+}
+.app .header .select .button.data-v-4a11fda6 {
+  width: 220rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  border-radius: 10rpx;
+  background-color: #814B59;
+}
+.app .header .select .select-options.data-v-4a11fda6 {
+  position: absolute;
+  top: 60rpx;
+}
+.app .header .select .select-options .select-item.data-v-4a11fda6 {
+  width: 220rpx;
+  border-top: 1rpx solid #fff;
+  background-color: #1e90ff;
+}
+.app .list.data-v-4a11fda6 {
+  padding: 10rpx 26rpx;
+}
+.app .list .item.data-v-4a11fda6 {
+  width: 700rpx;
+  margin-top: 30rpx;
+}
+.app .list .item .logo.data-v-4a11fda6 {
+  margin-right: 20rpx;
+}
+.app .list .item .logo image.data-v-4a11fda6 {
+  border-radius: 10rpx;
+  width: 110rpx;
+  height: 110rpx;
+}
+.app .list .item .content.data-v-4a11fda6 {
+  flex: 1;
+}
+.app .list .item .content .title.data-v-4a11fda6 {
+  width: 560rpx;
+  margin-top: 16rpx;
+  margin-bottom: 20rpx;
+}
+.app .list .item .content .name.data-v-4a11fda6 {
+  font-size: 24rpx;
+  color: rgba(255, 255, 255, 0.8);
+}
+.app .list .item .content .price.data-v-4a11fda6 {
+  color: #D81E06;
+  font-size: 28rpx;
+}
+

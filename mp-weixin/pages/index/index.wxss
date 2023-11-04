@@ -1,0 +1,297 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.member_only.data-v-57280228 {
+  width: 150rpx;
+  padding: 4rpx 0;
+  font-size: 18rpx;
+  background-color: red;
+  color: #fff;
+  text-align: center;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  position: absolute;
+  right: -64rpx;
+  top: -4rpx;
+}
+.down_icon.data-v-57280228 {
+  width: 32rpx;
+  height: 32rpx;
+  vertical-align: middle;
+  margin-right: 2rpx;
+  position: relative;
+  top: -4rpx;
+}
+
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page,
+page {
+  background: #1e232e;
+}
+/* 滑动 */
+.swiper-view {
+  height: 280rpx;
+  margin-top: 40rpx;
+  margin-bottom: 20rpx;
+}
+.swiper-view swiper-item {
+  display: flex;
+  flex-direction: row;
+  height: 280rpx;
+}
+.swiper-view swiper-item image {
+  box-sizing: border-box;
+  width: 700rpx;
+  height: 280rpx;
+}
+/* //公告 */
+.notice-bar {
+  width: 700rpx;
+  height: 50rpx;
+  font-size: 28rpx;
+  margin: 0 auto 20rpx;
+  box-shadow: 0px 0px 2px rgba(93, 93, 93, 0.09);
+}
+.function_view {
+  padding: 10rpx 30rpx 30rpx;
+}
+.function_view .item {
+  width: 160rpx;
+  height: 100rpx;
+  border-radius: 8rpx;
+  margin-right: 20rpx;
+  overflow: hidden;
+  position: relative;
+}
+.function_view .item image {
+  width: 160rpx;
+  height: 100rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.function_view .item text {
+  position: absolute;
+  width: 100%;
+  color: white;
+  font-size: 32rpx;
+  margin: auto;
+  display: block;
+  text-align: center;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.mask {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask .content {
+  position: relative;
+}
+.mask .content .qrcode {
+  display: block;
+  width: 450rpx;
+  height: 450rpx;
+  margin: auto;
+}
+.mask .content .tips {
+  display: block;
+  color: white;
+  font-size: 26rpx;
+  text-align: center;
+  margin-top: 20rpx;
+}
+.mask .content .close {
+  position: absolute;
+  bottom: -150rpx;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  /* 50%为自身尺寸的一半 */
+  padding: 14rpx 20rpx;
+  text-align: center;
+}
+.list_view {
+  padding: 0 26rpx 0 24rpx;
+  color: #fff;
+}
+.list_view .title {
+  font-size: 40rpx;
+}
+.list_view .title_strong {
+  color: #F956B0;
+  padding: 0 2rpx;
+}
+.list_view .title_after {
+  letter-spacing: 2rpx;
+  padding-left: 40rpx;
+  font-size: 28rpx;
+}
+.list_view .idx_tab {
+  width: 700rpx;
+  margin-bottom: 30rpx;
+}
+.list_view .idx_tab .idx_tab_item {
+  width: 160rpx;
+  height: 60rpx;
+  font-size: 24rpx;
+  line-height: 60rpx;
+  text-align: center;
+  background-color: #384055;
+}
+.list_view .idx_tab .idx_tab_item_active {
+  background-color: #FB7EBD;
+}
+.list_view .idx_content {
+  width: 700rpx;
+  margin-bottom: 30rpx;
+  overflow: hidden;
+  padding: 20rpx 24rpx;
+  box-sizing: border-box;
+  background-color: #242A37;
+}
+.list_view .idx_content .des_down_red {
+  color: #D81E06;
+}
+.list_view .idx_content .fgx {
+  display: block;
+  position: relative;
+  left: -25rpx;
+  border: 1rpx solid rgba(187, 187, 187, 0.1);
+  width: 700rpx;
+  margin: 10rpx 0 18rpx;
+}
+.list_view .idx_content .content_zd {
+  position: relative;
+}
+.list_view .idx_content .content_zd .ct_zd_lig {
+  width: 160rpx;
+  height: 150rpx;
+  border-radius: 8rpx;
+  margin-right: 12rpx;
+  overflow: hidden;
+}
+.list_view .idx_content .content_zd .ct_zd_lig image {
+  width: 160rpx;
+  height: 150rpx;
+}
+.list_view .idx_content .content_zd .ct_zd_ti {
+  font-size: 32rpx;
+}
+.list_view .idx_content .content_zd .ct_zd_ti text {
+  display: inline-block;
+  width: 80rpx;
+  height: 30rpx;
+  line-height: 30rpx;
+  margin-left: 10rpx;
+  background-color: #384055;
+  color: #909193;
+  font-size: 24rpx;
+  text-align: center;
+}
+.list_view .idx_content .content_zd .idx_ct_fx {
+  margin: 12rpx 0 22rpx;
+}
+.list_view .idx_content .content_zd .idx_ct_fx image {
+  vertical-align: middle;
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 10rpx;
+}
+.list_view .idx_content .content_zd .idx_ct_h {
+  width: 100%;
+  position: relative;
+  left: 180rpx;
+  font-size: 26rpx;
+}
+.list_view .idx_content .content_zd .idx_ct_h image {
+  position: relative;
+  top: -2rpx;
+  vertical-align: middle;
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 10rpx;
+}
+.list_view .idx_content .content_zd .ct_zd-des {
+  font-size: 24rpx;
+  margin-top: 20rpx;
+  padding-bottom: 6rpx;
+  line-height: 42rpx;
+}
+.list_view .idx_content .content_des {
+  font-size: 24rpx;
+}
+.list_view .idx_content .content_des view {
+  align-self: center;
+}
+.list_view .idx_content .content_des .ct_des_down image {
+  width: 32rpx;
+  height: 32rpx;
+}
+.list_view .idx_content .content_product {
+  margin-top: 22rpx;
+}
+.list_view .idx_content .content_product .content_product_item {
+  position: relative;
+  margin: 20rpx 0;
+}
+.list_view .idx_content .content_product .content_product_item .ct_pt_left {
+  justify-content: flex-start;
+}
+.list_view .idx_content .content_product .content_product_item .ct_pt_left .ct_pt_left_ima {
+  margin-right: 12rpx;
+}
+.list_view .idx_content .content_product .content_product_item .ct_pt_left .ct_pt_left_ima image {
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 4rpx;
+}
+.list_view .idx_content .content_product .content_product_item .ct_pt_left .pt_left_text {
+  font-size: 28rpx;
+  width: 440rpx;
+  padding-top: 10rpx;
+}
+.list_view .idx_content .content_product .content_product_item .ct_pt_right {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  right: 0;
+  font-size: 30rpx;
+}
+
