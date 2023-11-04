@@ -7,8 +7,7 @@
 商用请联系官方获取授权：
 wx：zoutianok
 
-![](https://duanju666.oss-cn-hangzhou.aliyuncs.com/jietu/qrcode.jpg?x-oss-process=image/resize,s_300
-) 
+![](https://duanju666.oss-cn-hangzhou.aliyuncs.com/jietu/qrcode.jpg?x-oss-process=image/resize,s_300) 
 
 ### 程序功能
 - 三级分销
